@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RobertCastro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Robert Castro
+- 👀 I’m Software Engineer
+- 🌱 I’m Senior Technical SEO
+- 💞️ I’m looking to collaborate on ReactJS, AWS, Drupal and WordPress projects
+- 📫 How to reach me hola@robertcastro.co
 
 <!---
 RobertCastro/RobertCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
