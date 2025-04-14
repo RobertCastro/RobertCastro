@@ -2,7 +2,7 @@
 - 👀 I’m Software Engineer
 - 🌱 I’m Senior Technical SEO
 - 💞️ I’m looking to collaborate on ReactJS, AWS, Drupal and WordPress projects
-- 📫 How to reach me hola@robertcastro.co
+- 📫 How to reach me hola@soyrobert.co
 
 <!---
 RobertCastro/RobertCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
