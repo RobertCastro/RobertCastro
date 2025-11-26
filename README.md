@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Robert Castro
 - 👀 I’m Software Engineer
 - 🌱 I’m Senior Technical SEO
-- 💞️ I’m looking to collaborate on ReactJS, NextJS, NestJS, Angualr, AWS, Drupal and WordPress projects
+- 💞️ I’m looking to collaborate on ReactJS, NextJS, NestJS, Angular, AWS, Drupal and WordPress projects
 - 📫 How to reach me hola@soyrobert.co
 
 <!---
